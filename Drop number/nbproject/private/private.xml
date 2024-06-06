@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/test/dropnumber/JUnitTests.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/EndState.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/StopState.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/BoardMarble.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/Controller.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/ActiveMarble.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/start.png</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/DropNumber.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/CheckSwallowState.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/MarbleFactory.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/State.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/restart.png</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/NextMarble.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/BoardMarbleFactory.java</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/pause.png</file>
+            <file>file:/D:/FACULTATE-Cursuri/AN%20III/Sem%20I/IP/Proiect/Drop%20number/src/dropnumber/sound.png</file>
+        </group>
+    </open-files>
+</project-private>
